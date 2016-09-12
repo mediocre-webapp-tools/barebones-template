@@ -1,0 +1,14 @@
+# Don't commit node_modules
+# Run npm install to dowload them
+
+node_modules
+
+# Build directories and files
+
+build
+tmp
+_dev*
+
+# Sublime files
+
+*.sublime-*
