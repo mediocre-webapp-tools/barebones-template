@@ -63,7 +63,7 @@ After that, you can add your module to your `main.js`:
 ```javascript
 var moment = require('moment');
 
-console.log(moment().format(DD/MM/YYYY'));
+console.log(moment().format('DD/MM/YYYY'));
 ```
 
 ### Building your project
